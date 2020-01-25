@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#!/usr/bin/env bash
 
 rm -rf AntDesign.js.flow Entypo.js.flow EvilIcons.js.flow Feather.js.flow \
     FontAwesome.js.flow FontAwesome5.js.flow FontAwesome5Pro.js.flow \
